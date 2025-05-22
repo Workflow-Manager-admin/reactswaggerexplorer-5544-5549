@@ -1,0 +1,128 @@
+/* SwaggerContainer component styles */
+.swagger-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: var(--kavia-dark);
+  color: var(--text-color);
+}
+
+.swagger-header {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.swagger-header h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--kavia-orange);
+  font-size: 1.8rem;
+}
+
+.url-input-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.url-input {
+  flex: 1;
+  padding: 10px 15px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-color);
+  font-size: 16px;
+}
+
+.url-input:focus {
+  outline: none;
+  border-color: var(--kavia-orange);
+  box-shadow: 0 0 0 1px var(--kavia-orange);
+}
+
+.url-submit-btn {
+  background-color: var(--kavia-orange);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.url-submit-btn:hover {
+  background-color: #FF8B4D;
+}
+
+.error-message {
+  background-color: rgba(255, 0, 0, 0.1);
+  border: 1px solid rgba(255, 0, 0, 0.3);
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 20px;
+  color: #ff6b6b;
+}
+
+.retry-btn {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.retry-btn:hover {
+  background-color: #ff5252;
+}
+
+.loading-indicator {
+  padding: 20px;
+  text-align: center;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.swagger-ui-container {
+  margin-top: 10px;
+}
+
+/* Override some Swagger UI default styles to match our theme */
+.swagger-ui-container .swagger-ui {
+  font-family: 'Inter', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+.swagger-ui-container .swagger-ui .opblock-tag {
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.swagger-ui-container .swagger-ui .opblock-tag:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.hidden {
+  display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .url-input-form {
+    flex-direction: column;
+  }
+  
+  .url-input {
+    width: 100%;
+  }
+  
+  .url-submit-btn {
+    width: 100%;
+  }
+}
