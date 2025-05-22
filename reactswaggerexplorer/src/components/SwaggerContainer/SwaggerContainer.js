@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import SwaggerUI from 'swagger-ui-react';
 import 'swagger-ui-react/swagger-ui.css';
 import './SwaggerContainer.css';
@@ -16,19 +16,8 @@ import './SwaggerContainer.css';
 const SwaggerContainer = () => {
   // State for storing the current API spec URL
   const [specUrl, setSpecUrl] = useState('https://petstore.swagger.io/v2/swagger.json');
-  // State for handling API loading errors
-  const [error, setError] = useState(null);
-  // State for tracking loading status
-  const [isLoading, setIsLoading] = useState(true);
   // State for URL input field
   const [inputUrl, setInputUrl] = useState('https://petstore.swagger.io/v2/swagger.json');
-
-  // Reset error state when specUrl changes
-  useEffect(() => {
-    setError(null);
-    setIsLoading(true);
-    // In a real implementation, we might want to verify the URL is valid before setting it
-  }, [specUrl]);
 
   /**
    * Handles the submission of a new API spec URL
@@ -40,27 +29,6 @@ const SwaggerContainer = () => {
       setSpecUrl(inputUrl.trim());
     }
   };
-
-  /**
-   * Handles successful loading of the Swagger UI
-   */
-  const onSwaggerUILoad = () => {
-    setIsLoading(false);
-  };
-  
-  // Adding an error effect to catch failed loads
-  useEffect(() => {
-    // Set a timeout to check if isLoading is still true after a reasonable time
-    // This is a simple way to detect if the Swagger UI is having issues loading
-    const timer = setTimeout(() => {
-      if (isLoading) {
-        setError('Failed to load the API specification. Please check the URL and try again.');
-        setIsLoading(false);
-      }
-    }, 10000); // 10 seconds timeout
-    
-    return () => clearTimeout(timer);
-  }, [specUrl, isLoading]);
 
   return (
     <div className="swagger-container">
@@ -78,38 +46,10 @@ const SwaggerContainer = () => {
         </form>
       </div>
       
-      {error && (
-        <div className="error-message">
-          <p>{error}</p>
-          <button 
-            className="btn retry-btn" 
-            onClick={() => {
-              setError(null);
-              setIsLoading(true);
-              // Try loading the default API if there was an error
-              setSpecUrl('https://petstore.swagger.io/v2/swagger.json');
-              setInputUrl('https://petstore.swagger.io/v2/swagger.json');
-            }}
-          >
-            Load Default API
-          </button>
-        </div>
-      )}
-      
-      {isLoading && !error && (
-        <div className="loading-indicator">
-          <p>Loading API documentation...</p>
-        </div>
-      )}
-      
-      <div className={`swagger-ui-container ${error ? 'hidden' : ''}`}>
+      <div className="swagger-ui-container">
         <SwaggerUI
           url={specUrl}
-          onComplete={onSwaggerUILoad}
           docExpansion="list"
-          deepLinking={true}
-          filter={true}
-          persistAuthorization={true}
         />
       </div>
     </div>
