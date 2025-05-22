@@ -47,10 +47,7 @@ const SwaggerContainer = () => {
       </div>
       
       <div className="swagger-ui-container">
-        <SwaggerUI
-          url={specUrl}
-          docExpansion="list"
-        />
+        <SwaggerUI url={specUrl} />
       </div>
     </div>
   );
