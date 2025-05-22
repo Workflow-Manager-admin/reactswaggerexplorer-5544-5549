@@ -22,3 +22,340 @@ Compiling...
 Compiled successfully!
 webpack compiled successfully
 Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/autolinker/dist/es2015/anchor-tag-builder.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/autolinker.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/html-tag.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/htmlParser/parse-html.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/email-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/hashtag-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/mention-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/phone-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/url-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/email-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/hashtag-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/mention-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/phone-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/tld-regex.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/url-match-validator.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/url-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/regex-lib.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-end.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-middle.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-smart.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/utils.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/version.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts'
+
+webpack compiled with 27 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/autolinker/dist/es2015/anchor-tag-builder.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/anchor-tag-builder.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/autolinker.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/autolinker.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/html-tag.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/html-tag.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/htmlParser/parse-html.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/htmlParser/parse-html.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/email-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/email-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/hashtag-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/hashtag-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/mention-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/mention-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/phone-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/phone-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/match/url-match.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/match/url-match.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/email-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/email-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/hashtag-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/hashtag-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/index.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/mention-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/mention-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/phone-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/phone-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/tld-regex.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/tld-regex.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/url-match-validator.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-match-validator.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/matcher/url-matcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/matcher/url-matcher.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/regex-lib.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/regex-lib.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-end.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-end.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-middle.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-middle.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/truncate/truncate-smart.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/truncate/truncate-smart.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/utils.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/utils.ts'
+
+WARNING in ./node_modules/autolinker/dist/es2015/version.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer/node_modules/autolinker/src/version.ts'
+
+webpack compiled with 27 warnings
