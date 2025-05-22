@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/reactswaggerexplorer-5544-5549/reactswaggerexplorer"
+}
