@@ -1,6 +1,11 @@
 import React from 'react';
 import './App.css';
+import SwaggerContainer from './components/SwaggerContainer';
 
+/**
+ * Main application component for ReactSwaggerExplorer
+ * @returns {React.Component} The App component
+ */
 function App() {
   return (
     <div className="app">
@@ -8,26 +13,31 @@ function App() {
         <div className="container">
           <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%' }}>
             <div className="logo">
-              <span className="logo-symbol">*</span> KAVIA AI
+              <span className="logo-symbol">*</span> ReactSwaggerExplorer
             </div>
-            <button className="btn">Template Button</button>
+            <a 
+              href="https://github.com/swagger-api/swagger-ui" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="btn"
+            >
+              GitHub
+            </a>
           </div>
         </div>
       </nav>
 
-      <main>
+      <main style={{ paddingTop: '80px' }}>
         <div className="container">
-          <div className="hero">
-            <div className="subtitle">AI Workflow Manager Template</div>
-            
-            <h1 className="title">reactswaggerexplorer</h1>
-            
-            <div className="description">
-              Start building your application.
-            </div>
-            
-            <button className="btn btn-large">Button</button>
+          <div className="app-header">
+            <h1>React Swagger Explorer</h1>
+            <p className="description">
+              Interactive API documentation and exploration tool powered by Swagger UI.
+              Enter an OpenAPI/Swagger spec URL below to begin exploring.
+            </p>
           </div>
+          
+          <SwaggerContainer />
         </div>
       </main>
     </div>
