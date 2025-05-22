@@ -47,14 +47,20 @@ const SwaggerContainer = () => {
   const onSwaggerUILoad = () => {
     setIsLoading(false);
   };
-
-  /**
-   * Handles errors that occur during Swagger UI loading or rendering
-   */
-  const onSwaggerUIError = () => {
-    setError('Failed to load the API specification. Please check the URL and try again.');
-    setIsLoading(false);
-  };
+  
+  // Adding an error effect to catch failed loads
+  useEffect(() => {
+    // Set a timeout to check if isLoading is still true after a reasonable time
+    // This is a simple way to detect if the Swagger UI is having issues loading
+    const timer = setTimeout(() => {
+      if (isLoading) {
+        setError('Failed to load the API specification. Please check the URL and try again.');
+        setIsLoading(false);
+      }
+    }, 10000); // 10 seconds timeout
+    
+    return () => clearTimeout(timer);
+  }, [specUrl, isLoading]);
 
   return (
     <div className="swagger-container">
