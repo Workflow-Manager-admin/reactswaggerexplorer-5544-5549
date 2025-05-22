@@ -65,6 +65,19 @@ body {
   gap: 24px;
 }
 
+.app-header {
+  padding-bottom: 24px;
+  text-align: left;
+}
+
+.app-header h1 {
+  color: var(--kavia-orange);
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
 .subtitle {
   color: var(--kavia-orange);
   font-weight: 500;
@@ -82,8 +95,8 @@ body {
   font-size: 1.1rem;
   line-height: 1.5;
   color: var(--text-secondary);
-  max-width: 600px;
-  margin-bottom: 16px;
+  max-width: 800px;
+  margin-bottom: 24px;
 }
 
 .btn {
