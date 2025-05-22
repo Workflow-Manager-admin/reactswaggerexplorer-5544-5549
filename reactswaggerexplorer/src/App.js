@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import SwaggerContainer from './components/SwaggerContainer';
+import ErrorBoundary from './components/ErrorBoundary/ErrorBoundary';
 
 /**
  * Main application component for ReactSwaggerExplorer
@@ -37,7 +38,9 @@ function App() {
             </p>
           </div>
           
-          <SwaggerContainer />
+          <ErrorBoundary>
+            <SwaggerContainer />
+          </ErrorBoundary>
         </div>
       </main>
     </div>
