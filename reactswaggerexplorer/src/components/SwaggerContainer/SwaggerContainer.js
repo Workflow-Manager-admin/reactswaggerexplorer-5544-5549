@@ -100,7 +100,6 @@ const SwaggerContainer = () => {
         <SwaggerUI
           url={specUrl}
           onComplete={onSwaggerUILoad}
-          onFailure={onSwaggerUIError}
           docExpansion="list"
           deepLinking={true}
           filter={true}
